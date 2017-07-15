@@ -8,4 +8,4 @@ Maintainer: TD
 Author: TD
 Section: Themes
 Conflicts: 
-Depends: anemone
+Depends: com.anemonetheming.anemone
