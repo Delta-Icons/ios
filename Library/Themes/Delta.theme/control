@@ -1,5 +1,5 @@
 Package: com.td.delta
-Name: Delta
+Name: Delta (Winterboard)
 Version: 0.1
 Architecture: iphoneos-arm
 Description: An official port of the Android Icon Pack, Delta, from Leif Niem.
@@ -8,4 +8,4 @@ Maintainer: TD
 Author: TD
 Section: Themes
 Conflicts: 
-Depends: com.anemonetheming.anemone
+Depends: winterboard
