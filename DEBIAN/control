@@ -1,0 +1,10 @@
+Package: website.leifs.delta
+Name: Delta Icon Pack
+Version: 1.0.4
+Architecture: iphoneos-arm
+Description: Pastel Goodness for your Springboard
+Depiction: http://delta-icons.github.io/packages/package.html
+Homepage: http://delta-icons.github.io
+Maintainer: Leif Niemczik <iballleif@live.de>
+Author: Leif Niemczik <iballleif@live.de>
+Section: Themes
